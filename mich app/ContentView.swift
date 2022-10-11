@@ -9,11 +9,12 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+        
         VStack {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, Im Mich!")
+            Text("Hello, I'm Mich!")
                 
         }
         .padding()
@@ -26,4 +27,6 @@ struct ContentView_Previews: PreviewProvider {
     }
 }
 
-
+//vistas y controles
+//vistas cualquier elemento que el usuario ve
+//control con lo que el usuario interactua
