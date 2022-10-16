@@ -39,7 +39,7 @@ struct Images: View {
             Image(systemName: "moon.fill")
 
         }
-    }
+    } 
 }
 
 struct Images_Previews: PreviewProvider {

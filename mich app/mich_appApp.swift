@@ -11,7 +11,7 @@ import SwiftUI
 struct mich_appApp: App {
     var body: some Scene {
         WindowGroup {
-            Images()
+            HstackVstack()
             //ContentView()
         }
     }
