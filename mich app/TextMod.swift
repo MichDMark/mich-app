@@ -15,7 +15,7 @@ struct TextMod: View {
             .foregroundColor(.red)
             .padding([.bottom],40)
             .padding(.trailing, 50)
-            .frame(width: 300, height: 100, alignment: .leading)
+            .frame(width: 270, height: 90, alignment: .leading)
             .background(Color.blue)//este background es del padding, no del texto
         
     } //en swift importa mucho el orden de los cambios

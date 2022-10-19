@@ -18,6 +18,8 @@
 		2C9BCAC228EFB5C600FFE2D2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9BCAC128EFB5C600FFE2D2 /* ContentView.swift */; };
 		2C9BCAC428EFB5C600FFE2D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C9BCAC328EFB5C600FFE2D2 /* Assets.xcassets */; };
 		2C9BCAC728EFB5C600FFE2D2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C9BCAC628EFB5C600FFE2D2 /* Preview Assets.xcassets */; };
+		2CE399FA28FFA34400BE5579 /* ZstackPadding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CE399F928FFA34400BE5579 /* ZstackPadding.swift */; };
+		2CE399FC28FFB80D00BE5579 /* Tabviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CE399FB28FFB80D00BE5579 /* Tabviews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,8 @@
 		2C9BCAC128EFB5C600FFE2D2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2C9BCAC328EFB5C600FFE2D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C9BCAC628EFB5C600FFE2D2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2CE399F928FFA34400BE5579 /* ZstackPadding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZstackPadding.swift; sourceTree = "<group>"; };
+		2CE399FB28FFB80D00BE5579 /* Tabviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tabviews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +96,8 @@
 				2C9BCAC528EFB5C600FFE2D2 /* Preview Content */,
 				2C0AF8C728FB571100E5640F /* HstackVstack.swift */,
 				2C0AF8C928FBB67300E5640F /* Solucion_reto_HVstack.swift */,
+				2CE399F928FFA34400BE5579 /* ZstackPadding.swift */,
+				2CE399FB28FFB80D00BE5579 /* Tabviews.swift */,
 			);
 			path = "mich app";
 			sourceTree = "<group>";
@@ -179,6 +185,8 @@
 				2C9BCAC028EFB5C600FFE2D2 /* mich_appApp.swift in Sources */,
 				2C863C1D28F7D1BD00369F38 /* Images.swift in Sources */,
 				2C76E90628F5152100281441 /* TextMod.swift in Sources */,
+				2CE399FA28FFA34400BE5579 /* ZstackPadding.swift in Sources */,
+				2CE399FC28FFB80D00BE5579 /* Tabviews.swift in Sources */,
 				2C76E90828F52AD700281441 /* Buttons.swift in Sources */,
 				2C0AF8C428FB402200E5640F /* TextFields.swift in Sources */,
 				2C0AF8C828FB571100E5640F /* HstackVstack.swift in Sources */,
